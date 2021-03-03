@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nikoucos.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-03T01:05:07.468Z</updated>
+    <updated>2021-03-03T01:17:06.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nikoucos.github.io"/>
     <link rel="self" href="https://Nikoucos.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://Nikoucos.github.io/images/avatar.png</logo>
     <icon>https://Nikoucos.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[喜欢的诗局]]></title>
+        <id>https://Nikoucos.github.io/post/xi-huan-de-shi-ju/</id>
+        <link href="https://Nikoucos.github.io/post/xi-huan-de-shi-ju/">
+        </link>
+        <updated>2021-03-03T01:06:37.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>“醉后不知天在水，满船清梦压星河”   --唐温如《题龙阳县青草湖》</p>
+</blockquote>
+<blockquote>
+<p>&quot;长恨人心不如水，等闲平地起波澜&quot;      --刘禹锡《竹枝词九首》</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Nikoucos.github.io/post/hello-gridea/</id>
