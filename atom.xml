@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nikoucos.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-03-11T02:07:00.162Z</updated>
+    <title>Nikoucos</title>
+    <updated>2021-03-11T02:18:20.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nikoucos.github.io"/>
     <link rel="self" href="https://Nikoucos.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>已识乾坤大，犹怜草木青</subtitle>
     <logo>https://Nikoucos.github.io/images/avatar.png</logo>
     <icon>https://Nikoucos.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Nikoucos</rights>
     <entry>
         <title type="html"><![CDATA[喜欢的诗句]]></title>
         <id>https://Nikoucos.github.io/post/xi-huan-de-shi-ju/</id>
